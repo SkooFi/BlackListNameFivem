@@ -1,1 +1,2 @@
-# BlackListNameFivem
+- BlackListNameFivem
+- Fivem Script Black List Name in Join Server <3
